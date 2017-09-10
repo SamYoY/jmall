@@ -51,7 +51,7 @@
 
 
     <!-- geelynote mybatis log 日志 -->
-
+    <!--这个log配置很重要，可以查看在mybatise输出的sql语句-->
     <logger name="com.mmall.dao" level="DEBUG"/>
 
     <!--<logger name="com.ibatis.sqlmap.engine.impl.SqlMapClientDelegate" level="DEBUG" >-->
